@@ -3,7 +3,7 @@ name: test by Build and Run ts Program
 on:
   pull_request:
     branches:
-      - main
+      - master
 
 
 jobs:
