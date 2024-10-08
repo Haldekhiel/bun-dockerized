@@ -1,0 +1,11 @@
+{
+    "name": "bun-app",
+    "version": "1.0.0",
+    "scripts": {
+      "start": "bun run ./server.tsx",
+      "test": "bun test ./server.tsx"
+    },
+    "dependencies": {
+
+    }
+  }
